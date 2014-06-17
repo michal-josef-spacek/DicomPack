@@ -2,3 +2,6 @@
  [Common]
  - Improve tests.
  - Rewrite build system to Module::Install.
+
+ [DicomPack::Util::DicomAnonymizer]
+ - Fix pod.

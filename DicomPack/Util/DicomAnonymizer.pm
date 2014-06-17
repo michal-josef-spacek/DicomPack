@@ -88,8 +88,6 @@ This module anonymize (or change) the values of specified Dicom fields.
 
 Returns a new DicomAnonymizer object.
 
-=back
-
 =item C<anonymize>
 
 Anonymize the specified dicom fields with new values.
@@ -112,6 +110,8 @@ A path to the output anonymized dicom file
 
 A hash reference (format: DicomFieldName=>"NewValue", DicomFieldName is the
 Dicom tag path pointing to the dicom field whose value will be set to NewValue).
+
+=back
 
 =back
 

@@ -1,0 +1,2 @@
+0.96
+ - Rewrite build system to Module::Install.

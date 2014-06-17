@@ -1,3 +1,4 @@
 0.96
+ [Common]
  - Improve tests.
  - Rewrite build system to Module::Install.

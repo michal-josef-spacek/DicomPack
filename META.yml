@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                DicomPack
-version:             0.95
+version: 0.96
 abstract:            Read/Write/Create Dicom files
 license:             perl
 author:              

@@ -14,7 +14,7 @@ use DicomPack::DB::DicomTagDict qw/getTag/;
 use DicomPack::DB::DicomVRDict qw/getVR/;
 use DicomPack::IO::CommonUtil qw/_isLittleEndian _parseDicomFieldPath _pack _showDicomField _getDicomValue/;
 
-our $VERSION = '0.95';
+our $VERSION = '0.96';
 
 # instantiate DicomWriter
 sub new

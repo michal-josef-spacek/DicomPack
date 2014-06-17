@@ -14,7 +14,7 @@ use warnings;
 use DicomPack::DB::DicomVRDict qw/getVR/;
 use DicomPack::IO::CommonUtil qw/_getDicomValue _isLittleEndian _showDicomField _parseDicomFieldPath/;
 
-our $VERSION = '0.95';
+our $VERSION = '0.96';
 
 #instantiate DicomReader
 sub new

@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
 	NAME => "DicomPack",
-	VERSION => '0.95',
+	VERSION => '0.96',
 	ABSTRACT => 'Read/Write/Create Dicom files',
 	AUTHOR => 'Baoshe Zhang <bzhang@vcu.edu>',
 	LICENSE => 'perl',

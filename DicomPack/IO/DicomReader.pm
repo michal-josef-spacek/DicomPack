@@ -49,8 +49,7 @@ sub _parseDicomFile
 	my $nret = read(INDICOM, $dicomFileContent, $filesize);
 	if($nret != $filesize)
 	{
-		print "Error: read file: $infile\n";
-		exit;		
+		die "Error: read file: $infile\n";
 	}
 	close INDICOM;
 
@@ -67,8 +66,7 @@ sub _parseDicomFile
 
 	unless(defined $self->{DicomField}) # invalid dicom file
 	{
-		print "$infile may not be a valid dicom file!!!\n";
-		return undef;
+		die "$infile may not be a valid dicom file!!!\n";
 	}
 }
 

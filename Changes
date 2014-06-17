@@ -3,5 +3,8 @@
  - Improve tests.
  - Rewrite build system to Module::Install.
 
+ [DicomPack::IO:DicomReader]
+ - Rewrite non-sense prints in constructor to die.
+
  [DicomPack::Util::DicomAnonymizer]
  - Fix pod.

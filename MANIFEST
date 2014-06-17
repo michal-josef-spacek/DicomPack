@@ -18,4 +18,31 @@ inc/Module/Install/WriteAll.pm
 Makefile.PL
 MANIFEST			This list of files
 META.yml			Module meta-data (added by MakeMaker)
-t/modules.t
+t/DicomPack-DB-DicomTagDict/00-use.t
+t/DicomPack-DB-DicomTagDict/01-version.t
+t/DicomPack-DB-DicomTagDict/02-pod_coverage.t
+t/DicomPack-DB-DicomTagDict/03-pod.t
+t/DicomPack-DB-DicomVRDict/00-use.t
+t/DicomPack-DB-DicomVRDict/01-version.t
+t/DicomPack-DB-DicomVRDict/02-pod_coverage.t
+t/DicomPack-DB-DicomVRDict/03-pod.t
+t/DicomPack-IO-CommonUtil/00-use.t
+t/DicomPack-IO-CommonUtil/01-version.t
+t/DicomPack-IO-CommonUtil/02-pod_coverage.t
+t/DicomPack-IO-CommonUtil/03-pod.t
+t/DicomPack-IO-DicomReader/00-use.t
+t/DicomPack-IO-DicomReader/01-version.t
+t/DicomPack-IO-DicomReader/02-pod_coverage.t
+t/DicomPack-IO-DicomReader/03-pod.t
+t/DicomPack-IO-DicomWriter/00-use.t
+t/DicomPack-IO-DicomWriter/01-version.t
+t/DicomPack-IO-DicomWriter/02-pod_coverage.t
+t/DicomPack-IO-DicomWriter/03-pod.t
+t/DicomPack-Util-DicomAnonymizer/00-use.t
+t/DicomPack-Util-DicomAnonymizer/01-version.t
+t/DicomPack-Util-DicomAnonymizer/02-pod_coverage.t
+t/DicomPack-Util-DicomAnonymizer/03-pod.t
+t/DicomPack-Util-DicomDumper/00-use.t
+t/DicomPack-Util-DicomDumper/01-version.t
+t/DicomPack-Util-DicomDumper/02-pod_coverage.t
+t/DicomPack-Util-DicomDumper/03-pod.t

@@ -1,0 +1,17 @@
+NAME
+    DicomPack - Read/Write/Create Dicom files
+
+SEE ALSO
+    DicomPack::DB::DicomTagDict, DicomPack::DB::DicomVRDict,
+    DicomPack::Util::DicomAnonymizer, DicomPack::Util::DicomDumper,
+    DicomPack::IO::CommonUtil, DicomPack::IO::DicomReader,
+    DicomPack::IO::DicomWriter.
+
+AUTHORS
+    Baoshe Zhang, MCV Medical School, Virginia Commonwealth University
+
+    Michal Špaček <mailto:skim@cpan.org> <http://skim.cz>
+
+VERSION
+    0.96
+

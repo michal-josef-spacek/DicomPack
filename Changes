@@ -1,6 +1,7 @@
 0.96
  [Common]
  - Add MANIFEST.SKIP file.
+ - Add README file.
  - Improve tests.
  - Rewrite build system to Module::Install.
 

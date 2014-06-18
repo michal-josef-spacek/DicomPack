@@ -11,6 +11,7 @@ author 'Baoshe Zhang <bzhang@vcu.edu>';
 author 'Michal Špaček <skim@cpan.org>';
 license 'perl';
 name 'DicomPack';
+readme_from 'DicomPack.pm';
 requires 'Exporter' => 0;
 requires 'perl' => '5.6.2';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.

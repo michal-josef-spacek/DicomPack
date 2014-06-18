@@ -4,6 +4,9 @@
  - Improve tests.
  - Rewrite build system to Module::Install.
 
+ [DicomPack]
+ - Add blank module with documentation.
+
  [DicomPack::IO:DicomReader]
  - Rewrite non-sense prints in constructor to die.
 

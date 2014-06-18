@@ -1,4 +1,5 @@
 Changes
+DicomPack.pm
 DicomPack/DB/DicomTagDict.pm
 DicomPack/DB/DicomVRDict.pm
 DicomPack/IO/CommonUtil.pm
@@ -46,3 +47,7 @@ t/DicomPack-Util-DicomDumper/00-use.t
 t/DicomPack-Util-DicomDumper/01-version.t
 t/DicomPack-Util-DicomDumper/02-pod_coverage.t
 t/DicomPack-Util-DicomDumper/03-pod.t
+t/DicomPack/00-use.t
+t/DicomPack/01-version.t
+t/DicomPack/02-pod_coverage.t
+t/DicomPack/03-pod.t
